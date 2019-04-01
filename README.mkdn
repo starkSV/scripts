@@ -6,7 +6,7 @@ Firsly, install `git`, using whatever package manager has.
 Then, run these commands
 
 ```bash
-git clone https://github.com/akhilnarang/scripts
+git clone https://github.com/starkSV/scripts
 cd scripts
 bash setup/<name of script>
 ```
